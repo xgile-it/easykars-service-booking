@@ -1,0 +1,10 @@
+net\easy\kars\hire\Application.class
+net\easy\kars\hire\controller\CarController.class
+net\easy\kars\hire\repository\CarRepository.class
+net\easy\kars\hire\controller\BookingController.class
+net\easy\kars\hire\exception\GlobalExceptionHandler.class
+net\easy\kars\hire\model\Booking.class
+net\easy\kars\hire\repository\BookingRepository.class
+net\easy\kars\hire\exception\ErrorDetails.class
+net\easy\kars\hire\exception\ResourceNotFoundException.class
+net\easy\kars\hire\model\Car.class
